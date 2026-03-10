@@ -209,8 +209,6 @@ philosophy: |
   <img src="https://raw.githubusercontent.com/Erebionshi/Erebionshi/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> *To activate the snake animation, create a GitHub Action in this repo. See instructions below.*
-
 <!-- DIVIDER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
