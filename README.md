@@ -124,12 +124,12 @@ philosophy: |
 ## 📊 The Scrolls of Power — GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erebionshi&show_icons=true&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520&hide_border=false" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erebionshi&theme=dark&background=0d1117&ring=DAA520&fire=DAA520&currStreakLabel=DAA520&border=DAA520&stroke=DAA520&sideLabels=DAA520&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erebionshi&show_icons=true&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520&hide_border=false&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Erebionshi&theme=dark&background=0d1117&ring=DAA520&fire=DAA520&currStreakLabel=DAA520&border=DAA520&stroke=DAA520&sideLabels=DAA520&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erebionshi&layout=donut-vertical&theme=transparent&title_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520&hide_border=false&langs_count=8" width="35%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erebionshi&layout=donut-vertical&theme=transparent&title_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520&hide_border=false&langs_count=8" width="35%" alt="Top Languages"/>
 </p>
 
 <!-- DIVIDER -->
@@ -180,23 +180,21 @@ philosophy: |
 ## 🏛️ The Temples I've Built — Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Erebionshi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erebionshi&repo=REPO_NAME_1&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
+  <a href="https://github.com/Erebionshi/Toastman">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erebionshi&repo=Toastman&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
   </a>
-  <a href="https://github.com/Erebionshi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erebionshi&repo=REPO_NAME_2&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
+  <a href="https://github.com/Erebionshi/GameTeractFrontEnd">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erebionshi&repo=GameTeractFrontEnd&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Erebionshi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erebionshi&repo=REPO_NAME_3&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
+  <a href="https://github.com/Erebionshi/GameTeractApi">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erebionshi&repo=GameTeractApi&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
   </a>
-  <a href="https://github.com/Erebionshi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erebionshi&repo=REPO_NAME_4&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
+  <a href="https://github.com/Erebionshi/E-leaningapp">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erebionshi&repo=E-leaningapp&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
   </a>
 </p>
-
-> **⚠️ Replace `REPO_NAME_1`, `REPO_NAME_2`, etc. with your actual repo names once they're public.**
 
 <!-- DIVIDER -->
 <p align="center">
