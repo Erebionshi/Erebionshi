@@ -29,8 +29,6 @@
   Like Hephaestus at his forge, I shape raw code into powerful creations.
 ```
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="340">
-
 ### ⚡ About Me — The Myth
 
 ```yaml
@@ -52,8 +50,6 @@ philosophy: |
 - 🔱 **Master** of both frontend & backend realms
 - 🌩️ **Freelancer** — Bring me your vision, I'll forge it into reality
 - 📜 **Contact the Oracle:** **Capatimark0@gmail.com**
-
-<br clear="right"/>
 
 <!-- DIVIDER -->
 <p align="center">
@@ -141,58 +137,66 @@ philosophy: |
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🏛️ The Wisdom of the Ancients — Quotes for Coders
+## 🏛️ Words from the Ancients
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX2rGw/giphy.gif" width="300" alt="Greek Fire"/>
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <br>
+        <img src="https://img.shields.io/badge/🏛️_Plato-DAA520?style=for-the-badge&labelColor=0d1117" alt="Plato"/><br><br>
+        <em>"Excellence is not a gift, but a skill that takes practice."</em>
+        <br><br>
+      </td>
+      <td align="center" width="50%">
+        <br>
+        <img src="https://img.shields.io/badge/⚡_Seneca-DAA520?style=for-the-badge&labelColor=0d1117" alt="Seneca"/><br><br>
+        <em>"We suffer more often in imagination than in reality."</em>
+        <br><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <br>
+        <img src="https://img.shields.io/badge/🔥_Marcus_Aurelius-DAA520?style=for-the-badge&labelColor=0d1117" alt="Marcus Aurelius"/><br><br>
+        <em>"Waste no more time arguing about what a good man should be. Be one."</em>
+        <br><br>
+      </td>
+      <td align="center" width="50%">
+        <br>
+        <img src="https://img.shields.io/badge/⚔️_Sparta-DAA520?style=for-the-badge&labelColor=0d1117" alt="Sparta"/><br><br>
+        <em>"Sweat more in training, bleed less in war."</em>
+        <br><br>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-**🏛️ Stoic Wisdom**
+## 🏛️ The Temples I've Built — Featured Projects
 
-*"We suffer more often in imagination<br>than in reality."*<br>
-— **Seneca**
+<p align="center">
+  <a href="https://github.com/Erebionshi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erebionshi&repo=REPO_NAME_1&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
+  </a>
+  <a href="https://github.com/Erebionshi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erebionshi&repo=REPO_NAME_2&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Erebionshi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erebionshi&repo=REPO_NAME_3&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
+  </a>
+  <a href="https://github.com/Erebionshi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erebionshi&repo=REPO_NAME_4&theme=transparent&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&bg_color=0d1117&border_color=DAA520" width="48%"/>
+  </a>
+</p>
 
-*Applied to code: Stop overthinking the bug.<br>Just read the error message.*
-
-</td>
-<td width="50%" align="center">
-
-**⚡ Divine Discipline**
-
-*"No man is free who is not<br>master of himself."*<br>
-— **Epictetus**
-
-*Applied to code: Master your craft.<br>Discipline beats motivation every time.*
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**🔥 The Forge**
-
-*"The soul becomes dyed with<br>the color of its thoughts."*<br>
-— **Marcus Aurelius**
-
-*Applied to code: Think clean code,<br>write clean code, become clean code.*
-
-</td>
-<td width="50%" align="center">
-
-**⚔️ The Battle**
-
-*"He who conquers himself is<br>the mightiest warrior."*<br>
-— **Confucius (honorary Olympian)**
-
-*Applied to code: Your greatest enemy<br>is yesterday's version of yourself.*
-
-</td>
-</tr>
-</table>
+> **⚠️ Replace `REPO_NAME_1`, `REPO_NAME_2`, etc. with your actual repo names once they're public.**
 
 <!-- DIVIDER -->
 <p align="center">
